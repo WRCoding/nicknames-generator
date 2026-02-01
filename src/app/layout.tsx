@@ -39,6 +39,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://nicknamegeneratorforgames.top",
   },
+  icons: {
+    icon: "/favicon.ico",
+  },
   verification: {
     // Add your verification codes here when you have them
     // google: "your-google-verification-code",
