@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     template: "%s | Free Nickname Generator",
   },
   description: "100% Free AI-powered nickname generator for games, boyfriend, girlfriend & more. Generate unlimited cool, cute & funny nicknames instantly. No signup required!",
-  keywords: "free nickname generator, free gaming nickname generator, nickname generator for games, nicknames for boyfriend, nicknames for girlfriend, cute nicknames, cool nicknames, funny nicknames, AI nickname generator, game username generator, free username generator",
+  keywords: "nickname generator ai, free nickname generator, nicknames for friend, cute nicknames, cool nicknames, funny nicknames, game username generator, ",
   authors: [{ name: "Nickname Generator for Games" }],
   creator: "Nickname Generator for Games",
   publisher: "Nickname Generator for Games",
